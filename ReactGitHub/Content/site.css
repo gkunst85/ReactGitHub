@@ -1,0 +1,17 @@
+﻿.card {
+    border: none;
+    text-align: center;
+}
+
+    .card img {
+        border-radius: 100%;
+        padding: 10px;
+        border: 1px dashed #808080;
+        height: 150px;
+        width: 150px;
+    }
+
+    .card i {
+        cursor: pointer;
+        font-size: 30px;
+    }
